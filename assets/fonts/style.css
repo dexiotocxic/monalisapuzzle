@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'SP-GameOver';
+   font-display: swap;
+   src: url('SP-GameOver/font.ttf');
+}
+@font-face {
+   font-family: 'EkkamaiNew-Regular';
+   font-display: swap;
+   src: url('EkkamaiNew-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'KC Nightmare';
+   font-display: swap;
+   src: url('KC Nightmare/font.ttf');
+}
