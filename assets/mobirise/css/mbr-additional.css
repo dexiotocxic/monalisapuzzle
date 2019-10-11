@@ -1,5 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
-
 body {
   font-family: Rubik;
 }
@@ -36,12 +34,12 @@ body {
   font-size: 2.24rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 1.2rem;
+  font-family: 'SOV_Thanamas-Bold';
+  font-size: 2rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 3.2rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -542,12 +540,12 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Rubik', sans-serif;
-  font-size: 1.2rem;
+  font-family: 'SOV_Thanamas-Bold';
+  font-size: 2rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 3.2rem;
 }
 blockquote {
   border-color: #149dcc;

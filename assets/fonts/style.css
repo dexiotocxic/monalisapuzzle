@@ -9,6 +9,11 @@
    src: url('EkkamaiNew-Regular/font.ttf');
 }
 @font-face {
+   font-family: 'SOV_Thanamas-Bold';
+   font-display: swap;
+   src: url('SOV_Thanamas-Bold/font.ttf');
+}
+@font-face {
    font-family: 'KC Nightmare';
    font-display: swap;
    src: url('KC Nightmare/font.ttf');
